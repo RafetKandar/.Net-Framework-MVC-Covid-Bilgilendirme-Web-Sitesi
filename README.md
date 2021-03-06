@@ -27,10 +27,10 @@
 <img src = "img/İletişim.PNG"></img>
 <hr>
 <h3> <strong> Admin Login </strong> </h3>
-<img src = "img/AdminLogin"></img>
+<img src = "img/AdminLogin.PNG"></img>
 <hr>
 <h3> <strong> Admin  </strong> </h3>
-<img src = "img/AdminGenelTablo"></img>
+<img src = "img/AdminGenelTablo.PNG"></img>
 <hr>
 <h3> <strong> Veritabanı Diyagramı  </strong> </h3>
 <img src = "img/DatabaseDiagram.PNG"></img>
