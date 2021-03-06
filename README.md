@@ -15,7 +15,7 @@
 <img src = "img/TestYap.PNG"></img>
 <hr>
 <h3> <strong> Test Sonucları </strong> </h3>
---> <p style = "font-size:20px"> Test sonucu bulunurken ML.Net kullanılmıştır.</p>
+<p style = "font-size:20px"> -->  Test sonucu bulunurken ML.Net kullanılmıştır.</p>
 <img src = "img/TestSonucları.PNG"></img>
 <hr>
 <h3> <strong> Sık Sorulan Sorular </strong> </h3>
