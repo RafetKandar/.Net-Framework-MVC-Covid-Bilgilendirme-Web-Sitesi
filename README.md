@@ -2,6 +2,8 @@
 
 <img src = "img/AnaSayfa.PNG"></img>
 
+<p style = "font-size:20px"> Covid-19 hakkında bilinmesi gereken genel bilgileri, Türkiye genel covid-19 tablosunu, uyulması gereken kuralları, doktor tavsiyelerini kullanıcıya sunan aynı zamanda kullanıcıların online olarak Covid - 19 test yapmasına olanak sağlayan ve sonuca göre kullanıcıyı yönlendiren bir web sitesidir. </p>
+
 <hr>
 <h3> <strong> Covid19 Türkiye Genel Tablo </strong> </h3>
 <img src = "img/GenelTablo.PNG"></img>
