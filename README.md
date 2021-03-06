@@ -25,5 +25,14 @@
 <hr>
 <h3> <strong> İletişim </strong> </h3>
 <img src = "img/İletişim.PNG"></img>
+<hr>
+<h3> <strong> Admin Login </strong> </h3>
+<img src = "img/AdminLogin"></img>
+<hr>
+<h3> <strong> Admin  </strong> </h3>
+<img src = "img/AdminGenelTablo"></img>
+<hr>
+<h3> <strong> Veritabanı Diyagramı  </strong> </h3>
+<img src = "img/DatabaseDiagram.PNG"></img>
 
   
