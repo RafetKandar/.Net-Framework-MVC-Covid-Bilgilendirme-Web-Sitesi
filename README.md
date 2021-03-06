@@ -14,5 +14,14 @@
 <hr>
 <h3> <strong> Test Sonucları </strong> </h3>
 <img src = "img/TestSonucları.PNG"></img>
+<hr>
+<h3> <strong> Sık Sorulan Sorular </strong> </h3>
+<img src = "img/SıkSorulanSorular.PNG"></img>
+<hr>
+<h3> <strong> Tavsiyeler </strong> </h3>
+<img src = "img/Tavsiyeler.PNG"></img>
+<hr>
+<h3> <strong> İletişim </strong> </h3>
+<img src = "img/İletişim.PNG"></img>
 
   
